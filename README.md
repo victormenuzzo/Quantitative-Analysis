@@ -4,10 +4,10 @@ If you can't see my notebook with github, [nbviewer](https://nbviewer.jupyter.or
 
 ## Requirements
 
-pandas 
-numpy 
-seaborn
-matplotlib
+* pandas 
+* numpy 
+* seaborn
+* matplotlib
 
 ## Description
 
