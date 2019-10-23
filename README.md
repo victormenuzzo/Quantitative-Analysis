@@ -13,4 +13,7 @@ This is a simple summary of all parts. You can find out more details on their no
 ### Part 1
 Stocks Return: Explanation of the benefits of using stock returns and differences between raw and log returns.
 
+Long-Short: Our first (very simple) strategy for learning what is a trading signal. In the end, we use statistical test to know if this strategy is statistically significant or not.
+
+### Part 2 
 In progress
